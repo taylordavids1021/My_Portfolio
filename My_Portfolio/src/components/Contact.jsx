@@ -1,8 +1,11 @@
 function Contact() {
     return (
-        <div>
-
-        </div>
+        <section>
+            <h3>Linkedin</h3>
+            <h3>Github</h3>
+            <h3>Cell No.</h3>
+            <h3>Location</h3>
+        </section>
     )
 }
 
